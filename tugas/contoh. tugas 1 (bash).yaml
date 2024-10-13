@@ -1,0 +1,12 @@
+/ecommerce
+    /css
+        - style.css
+    /js
+        - script.js
+    /images
+        - product1.jpg
+        - product2.jpg
+    /php
+        - connect.php
+        - checkout.php
+    index.php
